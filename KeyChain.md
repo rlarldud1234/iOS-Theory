@@ -23,11 +23,7 @@
 - ### KeyChain Service API
 
   - ##### KeyChain Service API로 민감한 데이터를 암호화 - 복호화 하며 재사용하는 행위를 보다 쉽고 안전하게 사용할 수 있게 한다.
-
-![스크린샷 2021-11-20 오후 8.00.58](/Users/gimgiyeong/Library/Application Support/typora-user-images/스크린샷 2021-11-20 오후 8.00.58.png)
-
-
-
+  
 - ### KeyChain Items
 
   - #### 저장할 Data의 종류
