@@ -82,7 +82,7 @@
 
 - ##### 명확하고 직관적인 인터페이스를 제공합니다. 각 플랫폼의 다른 앱에 맞는 간단한 인터페이스를 디자인하는데 도움이 필요하면 iOS(https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-ios), iPadOS(https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-ipados), macOD(https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-macos), watchOS(https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-watchos) 및 tvOS(https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-tvos) 용 디자인을 참고하십시오.
 
-- ##### 앱 사용 방법을 학습하는 방법을 구축하십시오. 신규 사용자는 단계별 접근 방식을 취허고 숙련된 사용자는 원하는 콘텐츠로 바로 건너뛸 수 있도록 첫 출시 환경을 설계하는 것이 좋습니다. 지침은 Onboarding(https://developer.apple.com/design/human-interface-guidelines/patterns/onboarding)을 참고하십시오.
+- ##### 앱 사용 방법을 학습하는 방법을 구축하십시오. 신규 사용자는 단계별 접근 방식을 취허고 숙련된 사용자는 원하는 콘텐츠로 바로 건너뛸 수 있도록 첫 출시 환경을 설계하는 것이 좋습니다. 지침은 Onboarding( https://developer.apple.com/design/human-interface-guidelines/patterns/onboarding )을 참고하십시오.
 
 
 
